@@ -1,0 +1,16 @@
+.chessBoard {
+    height: 450px;
+    background: white;
+    padding: 40px;
+    margin: 40px;
+    display: grid;
+    grid-template-columns: repeat(8, 60px);
+    grid-template-rows: repeat(8, 60px);
+
+}
+.rectangleBlue{
+    background: deepskyblue;
+}
+.rectangleWhite{
+
+}

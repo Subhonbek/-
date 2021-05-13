@@ -1,0 +1,12 @@
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.chessBoard {
+    height: 450px;
+    background: white;
+}
+.navbar {
+    background: white;
+}
